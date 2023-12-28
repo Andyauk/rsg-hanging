@@ -9,13 +9,16 @@
 - ox_lib
 
 # Installation
+
 - ensure that the dependancies are added and started
 - add rsg-hanging to your resources folder
 
 # Starting the resource
+
 - add the following to your server.cfg file : ensure rsg-hanging
 
 # Support
+
 - discord : https://discord.gg/9UXSfB35uN
 
 # Credits
