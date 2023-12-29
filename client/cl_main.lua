@@ -46,8 +46,7 @@ Citizen.CreateThread(
                             PlaySoundFrontend('Witness', 'HUD_Wanted_Sounds', true, 1)
                             lib.notify(
                                 {
-                                    title = '🚨',
-                                    description = 'There is no players nearby!',
+                                    title = 'There is no players nearby!',
                                     type = 'error',
                                     duration = 5000
                                 }
