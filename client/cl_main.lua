@@ -47,7 +47,7 @@ Citizen.CreateThread(
                             lib.notify(
                                 {
                                     title = '🚨',
-                                    description = 'There is ~t8~no players~q~ nearby!',
+                                    description = 'There is no players nearby!',
                                     type = 'error',
                                     duration = 5000
                                 }
