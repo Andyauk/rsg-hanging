@@ -44,7 +44,7 @@ AddEventHandler(
         local src = source
         local Player = RSGCore.Functions.GetPlayer(src)
         if Player.PlayerData.job.type == 'leo' and Player.PlayerData.job.onduty then
-        --if Player.PlayerData.job.name == "police" then -- put -- in the abmove line and remove the -- from this line if using policejob.
+        --if Player.PlayerData.job.name == "police" then -- put -- in the above line and remove the -- from this line if using policejob.
             TriggerClientEvent('rsg-hanging:doHang', closestPlayer, closestPlayer, id)
         else
             TriggerClientEvent(
