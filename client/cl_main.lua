@@ -156,3 +156,4 @@ function GetPlayers()
 
     return players
 end
+print("^2Script by ^1Andyauk^7")
